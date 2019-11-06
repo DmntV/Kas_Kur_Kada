@@ -1,6 +1,8 @@
 # Kas_Kur_Kada
 Žaidimas
 
+!!!ATNAUJINTĄ FAILĄ KELKIT Į NAUJĄ ŠAKĄ "Suzaista"!!!
+
 -------------------------------------------------
 Žaidėjų numeriai:
 
