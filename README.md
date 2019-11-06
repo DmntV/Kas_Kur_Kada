@@ -2,6 +2,7 @@
 Žaidimas
 
 !!!ATNAUJINTĄ FAILĄ KELKIT Į NAUJĄ ŠAKĄ "Suzaista"!!!
+P.S. Siūlau darant prieš akis turėt README failą :).
 
 -------------------------------------------------
 Žaidėjų numeriai:
