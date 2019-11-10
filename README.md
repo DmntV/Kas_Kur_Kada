@@ -34,13 +34,13 @@ Planas:
 
 – - - - - - 1 2 3 4 5 6 7 8 9 1 2 3 4  
 I sakinys -|A B C D E|, - , - , - , -  
-II sakinys - -|A B C D E|- , - , - , -  
-III sakinys - - -|A B C D E|, - , - , -  
-IV sakinys - - - -|A B C D E|- , - , -  
+II sakinys- -|A B C D E|- , - , - , -  
+III sakinys - -|A B C D E|, - , - , -  
+IV sakinys- - - -|A B C D E|- , - , -  
 V sakinys - - - - -|A B C D E|, - , -  
-VI sakinys - - - - - -|A B C D E|- , -  
-VII sakinys - - - - - - -|A B C D E|, -  
-VIII sakinys- - - - - - - -|A B C D E|-  
+VI sakinys- - - - - -|A B C D E|- , -  
+VII sakinys - - - - - -|A B C D E|, -  
+VIII sakinys- - - - - - -|A B C D E|-  
 IX sakinys- - - - - - - - -|A B C D E|  
 
 
